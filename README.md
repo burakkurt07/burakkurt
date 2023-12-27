@@ -1,4 +1,6 @@
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 <a href="https://www.linkedin.com/in/burakkurt0707"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 ### :man_technologist: &nbsp;About Me :
 
@@ -8,6 +10,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-burakkurt0707-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkurt0707)
+
+Hi there 👋
+
+    🔭 I’m currently working on Desktop App Programming with C#, SQL and DevExpress & Web Programming with PHP
+    🌱 I’m currently try learning Blueprint, Unreal Engine, Phyton, C++ and AI
+    💬 Ask me about Help for C#, SQL and DevExpress
+    ⚡ Fun fact: I'm love animes and mangas :)
+    👯 You can go my web site: [https://mustafabukulmez.com/](https://medium.com/@burak0564)
+
 
 ---
 
