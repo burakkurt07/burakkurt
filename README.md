@@ -6,13 +6,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-    🔭 I’m working as a Computer Programmer and contributing to frontend and backend for building web applications.
-    🔭 I’m currently working on Desktop App Programming with C#, SQL and Visual Basic .NET & Web Programming with Wordpress
-    🌱 Exploring Technical Content Writing.
-    🌱 I’m currently try learning Blueprint, Unreal Engine, Phyton, C++ and AI
-    💬 Ask me about Help for C#, SQL and Visual Basic .NET
-    ⚡ Fun fact: I'm love animes and mangas :)
-    ⚡ In my free time I read tech articles and develop myself about IT.
+🔭 I’m working as a Computer Programmer and contributing to frontend and backend for building web applications.
+🔭 I’m currently working on Desktop App Programming with C#, SQL and Visual Basic .NET & Web Programming with Wordpress
+🌱 Exploring Technical Content Writing.
+🌱 I’m currently try learning Blueprint, Unreal Engine, Phyton, C++ and AI
+💬 Ask me about Help for C#, SQL and Visual Basic .NET
+⚡ Fun fact: I'm love animes and mangas, and mostly classical music 🎼🎻 🎻 :)
+⚡ In my free time I read tech articles and develop myself about IT.
 👯 You can read my articles: [https://medium.com/@burak0564]
 ***
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-burakkurt0707-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkurt0707)
