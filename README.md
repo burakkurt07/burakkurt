@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     ⚡ Fun fact: I'm love animes and mangas :)
     ⚡ In my free time I read tech articles and develop myself about IT.
     👯 You can read my articles: [https://medium.com/@burak0564]
-    📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-burakkurt0707-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkurt0707)
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-burakkurt0707-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/burakkurt0707)
 
 ---
 
